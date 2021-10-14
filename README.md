@@ -1,4 +1,4 @@
-# fCC-Scientific_Computing_With_Python
+# fCC-Scientific_Computing_with_Python
 
 Projects completed in fulfilment of the requirements for the freeCodeCamp certification "Scientific Computing with Python", details of each project available at: https://www.freecodecamp.org/learn/scientific-computing-with-python/ 
 
